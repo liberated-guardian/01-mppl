@@ -7,7 +7,7 @@ Model RAD (*Rapid Application Development*) adalah strategi siklus hidup yang di
 
 ## 2. Tahapan Model RAD (*Rapid Application Development*)
   1. ***Requirement planning***  
-  Dalam tahap ini diketahui apa saja yan menjadi kebutuhan sistem yaitu dengan mengidentifikasikan kebutuhan informasi dan masalah yang dihadapi untuk menentukan tujuan, batasan-batasan sistem, kendala dan juga alternatif pemecahan masalah. Analisis digunakan untuk mengetahui perilaku sistem dan juga untuk mengetahui aktivitas apa saja yang ada dalam sistem tersebut.
+  Dalam tahap ini diketahui apa saja yang menjadi kebutuhan sistem yaitu dengan mengidentifikasikan kebutuhan informasi dan masalah yang dihadapi untuk menentukan tujuan, batasan-batasan sistem, kendala dan juga alternatif pemecahan masalah. Analisis digunakan untuk mengetahui perilaku sistem dan juga untuk mengetahui aktivitas apa saja yang ada dalam sistem tersebut.
 
   2. **Membuat *prototype***  
   Para pengembang mulai membuat prototipe secara cepat, dengan fitur dan fungsi yang dibutuhkan. Setelah itu, prototipe akan diberikan kepada pengguna untuk mengetahui apa *feedback* dari mereka.

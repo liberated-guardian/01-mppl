@@ -7,7 +7,7 @@ Model *Waterfall* adalah metode pertama yang banyak digunakan dalam industri per
 
 ## 2. Tahapan Model *Waterfall*
   1. ***Requirement analysis***  
-  Pada tahap ini pengembang sistem diperlukan suatu komunikasi yang bertujuan untuk memahami *software* yang dibutuhkan pengguna dan batasan *software*. Informasi ini biasanya dapat diperoleh melalui wawancara, survey atau diskusi.
+  Pada tahap ini pengembang sistem diperlukan suatu komunikasi yang bertujuan untuk memahami *software* yang dibutuhkan pengguna dan batasan *software*. Informasi ini biasanya dapat diperoleh melalui wawancara, survei atau diskusi.
 
   2. ***System design***  
   Pada proses desain, dilakukan penerjemahan syarat kebutuhan ke sebuah perancangan desain perangkat lunak yang dapat diperkirakan sebelum dibuatnya proses pengkodean (*coding*). Proses ini berfokus pada struktur data, arsitektur perangkat lunak, representasi *interface*, dan detail algoritma prosedural.  

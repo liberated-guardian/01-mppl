@@ -3,7 +3,7 @@
 Sumber : [shydestinydeer](http://shydestinydeer.blogspot.com/2017/04/sdlc-dengan-metode-prototype.html)
 
 ## 1. Pengertian Model *Prototype*
-Model *Prototype* adalah salah satu metode pengembangan *software* yang mengijinkan pengguna memiliki gambaran awal tentang progam yang akan dikembangkan serta melakukan pengujian awal. Metode ini menyajikan gambaran yang lengkap dari suatu sistem perangkat lunak, terdiri atas model kertas, model kerja dan program. Pihak pengembang akan melakukan identifikasi kebutuhan pemakai, menganalisis sistem dan melakukan studi kelayakan serta studi terhadap kebutuhan pemakai, meliputi model interface, teknik prosedural dan teknologi yang akan dimanfaatkan. Setelah gambaran awal disepakati, pengembang baru akan membuat produk aslinya sebagai hasil akhir dari proyek. Oleh karena itu sistem akan dikembangkan lebih cepat daripada tradisional dan biayanya menjadi lebih rendah. 
+Model *Prototype* adalah salah satu metode pengembangan *software* yang mengizinkan pengguna memiliki gambaran awal tentang program yang akan dikembangkan serta melakukan pengujian awal. Metode ini menyajikan gambaran yang lengkap dari suatu sistem perangkat lunak, terdiri atas model kertas, model kerja dan program. Pihak pengembang akan melakukan identifikasi kebutuhan pemakai, menganalisis sistem dan melakukan studi kelayakan serta studi terhadap kebutuhan pemakai, meliputi model interface, teknik prosedural dan teknologi yang akan dimanfaatkan. Setelah gambaran awal disepakati, pengembang baru akan membuat produk aslinya sebagai hasil akhir dari proyek. Oleh karena itu sistem akan dikembangkan lebih cepat daripada tradisional dan biayanya menjadi lebih rendah. 
 
 ## 2. Tahapan Model *Prototype*
   1. **Pengumpulan kebutuhan**  
@@ -16,7 +16,7 @@ Model *Prototype* adalah salah satu metode pengembangan *software* yang mengijin
   Evaluasi ini dilakukan oleh pengguna, jika sudah sesuai maka langkah selanjutnya akan diambil. Namun jika belum sesuai maka *prototype*-nya direvisi dengan mengulang langkah-langkah sebelumnya.
 
   4. **Mengkodekan Sistem**  
-  Dalam tahap ini *prototype* yang sudah disepakati diterjemahkan kedalam bahasa pemograman yang sesuai.
+  Dalam tahap ini *prototype* yang sudah disepakati diterjemahkan ke dalam bahasa pemograman yang sesuai.
 
   5. **Menguji Sistem**  
   Setelah sistem menjadi suatu perangkat lunak, kemudian dilakukan proses pengujian.
